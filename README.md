@@ -1,10 +1,10 @@
-# 🚀 URL Shortener App (MERN)
+# URL Shortener App (MERN)
 
 This is a **MERN stack** (MongoDB, Express.js, React.js, Node.js) based **URL Shortener** application that allows users to shorten long URLs into short and easy-to-share links.
 
 ---
 
-## 📌 Features
+## Features
 
 ✅ Shorten long URLs  
 ✅ Custom short link generation   
@@ -13,7 +13,7 @@ This is a **MERN stack** (MongoDB, Express.js, React.js, Node.js) based **URL Sh
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React.js, Axios, Bootstrap (or Tailwind CSS)  
 - **Backend**: Node.js, Express.js, MongoDB, Mongoose  
@@ -22,7 +22,7 @@ This is a **MERN stack** (MongoDB, Express.js, React.js, Node.js) based **URL Sh
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 /URL-Shortner-App
@@ -33,16 +33,16 @@ This is a **MERN stack** (MongoDB, Express.js, React.js, Node.js) based **URL Sh
 
 ---
 
-## 🚀 Installation Guide
+## Installation Guide
 
-### 1️⃣ Clone the Repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Mayurrathod1/URL-Shortner-App.git
 cd URL-Shortner-App
 ```
 
-### 2️⃣ Install Dependencies
+### 2️. Install Dependencies
 
 #### **Backend (server-app)**
 ```bash
@@ -56,7 +56,7 @@ cd ../client-app
 npm install
 ```
 
-### 3️⃣ Configure Environment Variables
+### 3️. Configure Environment Variables
 Create a `.env` file inside the `server-app` directory and add the following:
 
 ```
@@ -65,7 +65,7 @@ JWT_SECRET=your_jwt_secret
 BASE_URL=http://localhost:5000
 ```
 
-### 4️⃣ Start the Application
+### 4️. Start the Application
 
 #### **Backend**
 ```bash
@@ -81,7 +81,7 @@ npm start
 
 ---
 
-## 🎯 API Endpoints (Backend)
+## API Endpoints (Backend)
 
 | Method | Endpoint            | Description                     |
 |--------|---------------------|---------------------------------|
