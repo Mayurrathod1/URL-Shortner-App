@@ -6,10 +6,10 @@ This is a **MERN stack** (MongoDB, Express.js, React.js, Node.js) based **URL Sh
 
 ## Features
 
-✅ Shorten long URLs  
-✅ Custom short link generation   
-✅ Responsive UI for better user experience  
-✅ RESTful API for backend functionality  
+- Shorten long URLs  
+- Custom short link generation   
+- Responsive UI for better user experience  
+- RESTful API for backend functionality  
 
 ---
 
